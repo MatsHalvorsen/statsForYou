@@ -1,3 +1,5 @@
+const app = document.getElementById("app");
+
 const model = {
 
     app: {
@@ -27,20 +29,19 @@ const model = {
 
     data: {
         expenses: {
-            loan: 'null',
-            incuranse: 'null',
-            food: 'null',
-            electricalBill: 'null',
-            phone: 'null',
-            car: 'null',
+            loan: '8 000',
+            incuranse: '600',
+            food: '2500',
+            electricalBill: '300',
+            phone: '400',
+            car: '1500',
 
         },
 
         income: {
-            paycheck: 'bigInt',
+            paycheck: '30 000',
             other: 'null',
         }
 
     },
-
 }
