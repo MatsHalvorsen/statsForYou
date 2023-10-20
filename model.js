@@ -29,7 +29,7 @@ const model = {
 
     data: {
         expenses: {
-            loan: '8 000',
+            loan: '8000',
             incuranse: '600',
             food: '2500',
             electricalBill: '300',
